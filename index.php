@@ -105,6 +105,9 @@
     
     <!-- Custom styles for this template -->
     <link href="/Arun_Portfolio/_libs/assets/dist/css/cover.css" rel="stylesheet">
+    <link href="/Arun_Portfolio/_libs/assets/dist/css/main.css" rel="stylesheet">
+    
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css">
   </head>
   <body class="d-flex h-100 text-center text-bg-dark">
     <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -131,11 +134,15 @@
 <? load_temp('_header'); ?>
 
   <main class="px-3">
-    <h1>Cover your page.</h1>
-    <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
-    <p class="lead">
-      <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Learn more</a>
-    </p>
+ 
+  <? load_temp('_content'); ?>
+  <br>
+  <br>
+
+	
+
+
+
   </main>
 
   <? load_temp('_footer'); ?>
