@@ -1,4 +1,4 @@
-<header class="mb-auto">
+<header class="mb-auto .text-decoration-none">
     <div>
       <h3 class="float-md-start mb-0">ARUN RAJ</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">

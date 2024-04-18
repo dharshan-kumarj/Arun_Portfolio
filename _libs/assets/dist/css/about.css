@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(0, 0, 0, .5)  ;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.11);
+    border-radius: 30px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(14.5px);
+    -webkit-backdrop-filter: blur(14.5px);
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    background-size:auto;
+  }
+
+.item-period{
+    color: #d5d5d5;
+    background-color: #222;
+    display: inline-block;
+    position: relative;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 0 0 5px -40px;
+    padding: 0 10px;
+    line-height: 23px;
+    border: 2px solid #7066ff;
+    border-radius: 30px;
+    
+}
+
+.text-effect{
+    color: #d5d5d5;
+    background-color: #222;
+    display: inline-block;
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0 0 5px -40px;
+    padding: 0 50px;
+    line-height: 23px;
+    border: 2px solid #7066ff;
+    border-radius: 30px;
+   
+}
