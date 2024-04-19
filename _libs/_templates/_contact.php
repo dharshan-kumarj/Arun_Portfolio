@@ -13,7 +13,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.118.2">
-    <title>Contact - Arun</title>
+    <title>Arun</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/cover/">
 
@@ -97,7 +97,7 @@
         z-index: 1500;
       }
 
-      .bd-mode-toggle .dropdown-menu .a<link rel="stylesheet" href="/Arun_Portfolio/_libs/assets/dist/css/contact.css">ctive .bi {
+      .bd-mode-toggle .dropdown-menu .active .bi {
         display: block !important;
       }
     </style>
@@ -105,12 +105,13 @@
     
     <!-- Custom styles for this template -->
     <link href="/Arun_Portfolio/_libs/assets/dist/css/cover.css" rel="stylesheet">
-    <link href="/Arun_Portfolio/_libs/assets/dist/css/main.css" rel="stylesheet">
-    <link rel="stylesheet" href="/Arun_Portfolio/_libs/assets/dist/css/contact.css">
+    <link href="/Arun_Portfolio/_libs/assets/dist/css/contact.css" rel="stylesheet">
+    <link href="/Arun_Portfolio/_libs/assets/dist/js/contact.js" rel="stylesheet">
+    
     
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css">
   </head>
-  <body class="d-flex h-100 text-center text-bg-dark">
+  <body class="bg-secondary p-2 text-dark bg-opacity-10">
     <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
       <symbol id="check2" viewBox="0 0 16 16">
         <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
@@ -134,59 +135,60 @@
 
 <? load_temp('_contactheader'); ?>
 
-  <main class="px-3">
- 
-  <br>
-  <br>
-  <div class="contact-container">
-        <form action="" class="contact-left">
-            <div class="contact-left-title">
-                <h1>Get in touch</h1>
-                <hr>
-            </div>
-            <input type="text" name="name" plceholder="Your Name" class="contact-inputs" required>
-            <input type="email" name="email" plceholder="Your Email" class="contact-inputs" required>
-            <textarea name="message" placeholder="Your message" class="contact-inputs" required></textarea>
-            <button type="submit"> Submit</button>
-        </form>
+  <main class="px-1 text-centre">
+  <!-- Contact 1 - Bootstrap Brain Component -->
+<section class="">
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
+        <h2 class="display-5 text-center text-white pt-5">Contact Me!</h2>
+        <hr class="w-50 mx-auto mb-5 mb-xl-9 border-dark-subtle">
+      </div>
     </div>
-	
+  </div>
 
+  <div class="container">
+    <div class="row justify-content-lg-center">
+      <div class="col-12 col-lg-9">
+        <div class="bg-secondary bg-opacity-10 border rounded shadow-sm overflow-hidden">
 
+          <form action="#!">
+            <div class="row gy-4 gy-xl-5 p-4 p-xl-5">
+              <div class="col-12">
+                <label for="fullname" class="form-label text-white">Full Name <span class="text-danger">*</span></label>
+                <input type="text" class="form-control" id="fullname" name="fullname" value="" required>
+              </div>
+              <div class="col-12 ">
+                <label for="email" class="form-label text-white">Email <span class="text-danger">*</span></label>
+                <div class="input-group">
+                  <span class="input-group-text">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="26" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
+                      <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />
+                    </svg>
+                  </span>
+                  <input type="email" class="form-control" id="email" name="email" value="" required>
+                </div>
+              </div>
+              <div class="col-12">
+                <label for="message" class="form-label text-white">Message <span class="text-danger">*</span></label>
+                <textarea class="form-control" id="message" name="message" rows="3" required></textarea>
+              </div>
+              <div class="col-12">
+                <div class="d-grid">
+                  <button class="btn btn-warning btn-lg" type="submit">Submit</button>
+                </div>
+              </div>
+            </div>
+          </form>
 
-  </main>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+    </main>
 
-  <? load_temp('_footer'); ?>
-</div>
 <script src="/Arun_Portfolio/_libs/assets/dist/js/bootstrap.bundle.min.js"></script>
 
     </body>
 </html>
-
-
-
-
-
-
-<!-- <html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewpoint" content="width=devicei-width, initial scale=1.0">
-    <title>Contact Form</title>
-</head>
-<link rel="stylesheet" href="/Arun_Portfolio/_libs/assets/dist/css/contact.css">
-<body>
-    <div class="contact-container">
-        <form action="" class="contact-left">
-            <div class="contact-left-title">
-                <h1>Get in touch</h1>
-                <hr>
-            </div>
-            <input type="text" name="name" plceholder="Your Name" class="contact-inputs" required>
-            <input type="email" name="email" plceholder="Your Email" class="contact-inputs" required>
-            <textarea name="message" placeholder="Your message" class="contact-inputs" required></textarea>
-            <button type="submit"> Submit</button>
-        </form>
-    </div>
-</body>
-</html> -->

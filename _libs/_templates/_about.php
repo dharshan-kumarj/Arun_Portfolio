@@ -166,19 +166,19 @@
               <h1 class="item-period">AT 2021</h1>
               <br>
               <h3 class="text-white">B.Tech (Food Technology)</h3>
-              <p class="text-white opacity-75">I successfully completed my B.Tech in Food Technology at Kalasalingam Academy of Research and Education,Krishnan kovil. where I obtained a commendable CGPA of 7.79, reflecting my dedication and commitment to academic excellence</p>
+              <p class="text-white ">I successfully completed my B.Tech in Food Technology at Kalasalingam Academy of Research and Education,Krishnan kovil. where I obtained a commendable CGPA of 7.79, reflecting my dedication and commitment to academic excellence</p>
           </div>
           <div >
               <h1 class="item-period">AT 2017</h1>
               <br>
               <h3 class="text-white">HSC</h3>
-              <p class="text-white opacity-75">Achieving a commendable 81%, I completed my Higher Secondary Certificate at Zion Good Shepherd Matriculation Higher Secondary School, Madurai in 2017</p>
+              <p class="text-white ">Achieving a commendable 81%, I completed my Higher Secondary Certificate at Zion Good Shepherd Matriculation Higher Secondary School, Madurai in 2017</p>
           </div><br><br><br><br>
           <div >
               <h1 class="item-period">AT 2015</h1>
               <br>
               <h3 class="text-white">SSLC</h3>
-              <p class="text-white opacity-75">I successfully completed my SSLC at M. N. U. Jayaraj Nadar Higher Secondary School in Madurai, achieving an outstanding score of 96%.</p>
+              <p class="text-white ">I successfully completed my SSLC at M. N. U. Jayaraj Nadar Higher Secondary School in Madurai, achieving an outstanding score of 96%.</p>
           </div><br><br><br><br>
           
           <div class="row">
@@ -194,7 +194,7 @@
               <br>
               <h3 class="text-white">Travel Foods Services Pvt Ltd- Chennai</h3>
               <h5 class="text-white">QHSE – Executive</h5>
-              <p class="text-white opacity-75">
+              <p class="text-white ">
               I conduct Food Safety Audits for airport stores, Lounges, warehouses, and vendors, ensuring compliance. I manage FSSAI Licensing for 85 outlets, address quality issues, and maintain records. Additionally, I implement Kaizen for food safety, conduct training, handle customer complaints, and ensure operational safety through audits and reporting.</p>
           </div><br><br><br><br>
           <div >
@@ -202,7 +202,7 @@
               <br>
               <h3 class="text-white">Spencer Retail Ltd</h3>
               <h5 class="text-white">Food Safety Quality Executive</h5>
-              <p class="text-white opacity-75">
+              <p class="text-white ">
               I conduct Food Safety Audits and train retail store employees for compliance. I contribute to enhancing Private brand products' quality and regulatory compliance. I oversee reducing GDP and store DAD, ensuring process quality in manufacturing units. I identify process quality gaps, manage pest control, and conduct lab testing for private brand food products.</p>
           </div><br><br><br><br>
           <div >
@@ -210,7 +210,7 @@
               <br>
               <h3 class="text-white">Vikaarte Foods pvt limited (Cavinkare pvt ltd)</h3>
               <h5 class="text-white">Quality control Trainee (Rice paste & Non veg pickles)</h5>
-              <p class="text-white opacity-75">
+              <p class="text-white ">
               My portfolio highlights my skills in analyzing raw materials and finished goods, conducting tests, coordinating with teams for new product development, setting quality standards, implementing best practices, creating visual SOPs, training subordinates, and overseeing cleaning and pest control.</p>
           </div><br><br><br><br>
           <div >
@@ -218,7 +218,7 @@
               <br>
               <h3 class="text-white">Manna Foods Private Ltd (Britannia Industry Limited)</h3>
               <h5 class="text-white">Quality intern (Biscuits & Bread)</h5>
-              <p class="text-white opacity-75">
+              <p class="text-white ">
               I also emphasize my role in ensuring the quality of products across all four biscuit lines, analyzing the quality of raw materials, finished goods, and online product quality. Additionally, I showcase my expertise in checking GMP and GHP guidelines according to the checklist.</p>
           </div><br><br><br><br>
           <div >
@@ -226,7 +226,7 @@
               <br>
               <h3 class="text-white">Kaveri Krishna Fruit Products Industry</h3>
               <h5 class="text-white">Production and quality intern ( Fruit pulp)</h5>
-              <p class="text-white opacity-75">
+              <p class="text-white ">
               II demonstrate expertise in overseeing daily production, ensuring high-quality standards, and meticulous reporting practices. Additionally, I excel in identifying bottlenecks in production processes and recommending effective control measures, showcasing a commitment to operational excellence.</p>
           </div><br><br><br><br>
 
@@ -242,7 +242,7 @@
               <h1 class="item-period">Jan 2020 -May 2020</h1>
               <br>
               <h3 class="text-white ">Extraction of adhesive from tamarind seeds</h3>
-              <p class="text-white opacity-75 ">Low-cost adhesive production for helping small scale industry with extended shelf-life.
+              <p class="text-white  ">Low-cost adhesive production for helping small scale industry with extended shelf-life.
               During my project work, I have used a sophisticated instrument such as RSM, Texture
               analyzer Applied patent on this</p>
           </div>
@@ -250,21 +250,21 @@
               <h1 class="item-period">Nov 2020-April 2021</h1>
               <br>
               <h3 class="text-white">Development of symbiotic kefir with prebiotic</h3>
-              <p class="text-white opacity-75 ">It mitigates the gastrointestinal problems by increasing microbiome in human as well as aim to
+              <p class="text-white  ">It mitigates the gastrointestinal problems by increasing microbiome in human as well as aim to
 provide the low-cost kefir drink along with prebiotics</p>
           </div><br><br><br><br>
           <div >
               <h1 class="item-period">??</h1>
               <br>
               <h3 class="text-white">Reduction of wrapper waste using Lean six-sigma by DMIAC methodology.</h3>
-              <p class="text-white opacity-75 ">By using continuous improvement process methodology. we troubleshoot and provide kaizens for
+              <p class="text-white  ">By using continuous improvement process methodology. we troubleshoot and provide kaizens for
 the root cause of the problem. It reduced the waste rate from 7.2% to 4.7%</p>
           </div><br><br><br><br>
           <div >
               <h1 class="item-period">June 2021 - July 2021</h1>
               <br>
               <h3 class="text-white">Working on Astro space food</h3>
-              <p class="text-white opacity-75 ">Working on Astro space food to provide sustainable packed food to Astronauts</p>
+              <p class="text-white  ">Working on Astro space food to provide sustainable packed food to Astronauts</p>
           </div><br><br><br><br>
 
           <div class="row">
