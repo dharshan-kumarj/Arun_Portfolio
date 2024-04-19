@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
     <link href="/Arun_Portfolio/_libs/assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" href="/Arun_Portfolio/_libs/assets/images/arun.png">
 
     <style>
       .bd-placeholder-img {
@@ -254,7 +255,7 @@
 provide the low-cost kefir drink along with prebiotics</p>
           </div><br><br><br><br>
           <div >
-              <h1 class="item-period">??</h1>
+              <!-- <h1 class="item-period">??</h1> -->
               <br>
               <h3 class="text-white">Reduction of wrapper waste using Lean six-sigma by DMIAC methodology.</h3>
               <p class="text-white  ">By using continuous improvement process methodology. we troubleshoot and provide kaizens for

@@ -16,7 +16,7 @@
     <title>Arun</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/cover/">
-    <link rel="icon" href="/Arun_Portfolio/_libs/assets/images/Aruntitle.png">
+    <link rel="icon" href="/Arun_Portfolio/_libs/assets/images/arun.png">
 
     
 
