@@ -10,7 +10,7 @@
 	<div class="container">
  <div class="row">
 	<div class="col">
-	<img src="/Arun_Portfolio/_libs/assets/images/arun.jpg" class="rounded-circle" alt="arun" width="250" height="250">
+	<img src="/Arun_Portfolio/_libs/assets/images/arun.jpg" class="rounded-circle border border-warning border-5" alt="arun" width="250" height="250">
 	<h1 class="container text-light fs-1">Hello </h1>
 		<h1 class="container text-light border-bottom border-warning fs-5">Here's who I am & what I do</h1>
 		<div class="container text-center">

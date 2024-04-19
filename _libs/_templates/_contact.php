@@ -142,6 +142,10 @@
     <div class="row justify-content-md-center">
       <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
         <h2 class="display-5 text-center text-white pt-5">Contact Me!</h2>
+        <form
+                  action="https://arun.selfmade.technology/Arun_Portfolio"
+                  method="get"
+          >
         <hr class="w-50 mx-auto mb-5 mb-xl-9 border-dark-subtle">
       </div>
     </div>
