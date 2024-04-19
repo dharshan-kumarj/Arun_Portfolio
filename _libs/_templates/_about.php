@@ -133,18 +133,18 @@
 
 <? load_temp('_aboutheader'); ?>
 
-  <main class="px-1">
+  <main class="px-4">
  
   <br>
   <br>
-      <div class="container">
-        <div class="row">
+      <div class="container-fluid">
+        <div class="row pl-3">
           <div class="col">
           <h3 class="text-light">MY PROFILE :</h3>
           <div class="progress" style="height: 6px;">
                 <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
               </div><br><br>
-          <ul class=" text-effect opacity-55">
+          <ul class=" text-effect opacity-55 pt-3 pl-3">
                 <li>  Well versed in implementing quality standards to meet the organizational requirements.</li><br>
                 <li>Exceptional problem-solving skills</li><br>
                 <li>Handling organizational and administrative skills.</li><br>
@@ -261,7 +261,7 @@ provide the low-cost kefir drink along with prebiotics</p>
 the root cause of the problem. It reduced the waste rate from 7.2% to 4.7%</p>
           </div><br><br><br><br>
           <div >
-              <h1 class="item-period">June2021-july2021</h1>
+              <h1 class="item-period">June 2021 - July 2021</h1>
               <br>
               <h3 class="text-white">Working on Astro space food</h3>
               <p class="text-white opacity-75 ">Working on Astro space food to provide sustainable packed food to Astronauts</p>

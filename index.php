@@ -105,11 +105,11 @@
     
     <!-- Custom styles for this template -->
     <link href="/Arun_Portfolio/_libs/assets/dist/css/cover.css" rel="stylesheet">
-    <link href="/Arun_Portfolio/_libs/assets/dist/css/main.css" rel="stylesheet">
+    <link href="/Arun_Portfolio/_libs/assets/dist/css/about.css" rel="stylesheet">
     
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css">
   </head>
-  <body class="d-flex h-100 text-center text-bg-dark">
+  <body class="bg-secondary p-2 text-dark bg-opacity-10">
     <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
       <symbol id="check2" viewBox="0 0 16 16">
         <path d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"/>
@@ -129,24 +129,19 @@
     
 
     
-<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column ">
 
 <? load_temp('_header'); ?>
 
-  <main class="px-3">
+  <main class="px-1">
  
+  <br>
+  <br>
+
   <? load_temp('_content'); ?>
-  <br>
-  <br>
-
-	
-
-
-
-  </main>
-
-  <? load_temp('_footer'); ?>
+ </main>
 </div>
+
 <script src="/Arun_Portfolio/_libs/assets/dist/js/bootstrap.bundle.min.js"></script>
 
     </body>

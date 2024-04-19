@@ -10,26 +10,28 @@
 	<div class="container">
  <div class="row">
 	<div class="col">
-		<br>
-		<br>
-		<br>
 	<img src="/Arun_Portfolio/_libs/assets/dist/images/arun.jpg" class="rounded-circle" alt="arun" width="250" height="250">
-	</div>
+	<h1 class="container text-light fs-1">Hello </h1>
+		<h1 class="container text-light border-bottom border-warning fs-5">Here's who I am & what I do</h1><br>
+</div>
 	<br>
 	<div class="col w-50">
-		<h1 class="container">Hi There </h1>
-		<h1 class="container">I am Arun!</h1><br>
-		<p class=" badge bg-secondary text-wrap fs-4" style="width: 20rem; height:10rem;">I am Highly organized, motivational and technology-oriented graduate, seeking to leverage my leadership ability,
-market research</p>
+
+		<p class=" text-effect  " ><b>Arun Raj P</b>,originally from Madurai an enterprising QHSE Executive, driven by a dual passion for entrepreneurial endeavors and a relentless pursuit of knowledge.
+			<br><br>Eager to not only earn but also extend a helping hand tailored to others' needs, a testament to my drive for continuous growth and impact, all at the youthful age of 24</p>
 	</div>
 
 </div>
 <br>
 <br>
  <div class="row">
- <p class=" badge bg-secondary text-wrap fs-4" style="width: 40rem; height:9rem;"> I am excellent in New product idea creation, food safety and standard competency as Research and
-development executive position with company that allows me to develop my learning and Technical skills.</p>
-
+ <p class=" text-effect p-4 " > I am Highly organized, motivational and technology-oriented graduate, seeking to leverage my leadership ability,
+market research
+ </div>
+ <br>
+ <div class="row">
+ <p class=" text-effect p-4 " > I am excellent in New product idea creation, food safety and standard competency as Research and
+development executive position with company that allows me to develop my learning and Technical skills
  </div>
 </div>
 

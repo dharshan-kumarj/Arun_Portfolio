@@ -4,7 +4,7 @@
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link fw-bold py-1 px-0 "  href="../../index.php">Home</a>
         <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="_about.php">About Me</a>
-        <a class="nav-link fw-bold py-1 px-0" href="_contact.php">Contact</a>
+        <a class="nav-link fw-bold py-1 px-0" href="_contact.php">Get in Touch</a>
       </nav>
     </div>
   </header>
