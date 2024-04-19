@@ -142,7 +142,7 @@
           <div class="col">
           <h3 class="text-light">MY PROFILE :</h3>
           <div class="progress" style="height: 6px;">
-                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
+                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 18%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
               </div><br><br>
           <ul class=" text-effect opacity-55 pt-3 pl-3">
                 <li>  Well versed in implementing quality standards to meet the organizational requirements.</li><br>
@@ -159,7 +159,7 @@
           <div class="col"><br><br>
           <h3 class="text-light">EDUCATION :</h3>
           <div class="progress" style="height: 6px;">
-                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
+                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 36%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
               </div><br>
           </div>
           <div >
@@ -186,7 +186,7 @@
           <br><br>
           <h3 class="text-light">PROFESSIONAL EXPERIENCE :</h3>
           <div class="progress" style="height: 6px;">
-                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
+                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 54%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
               </div><br>
           </div>
           <div >
@@ -235,7 +235,7 @@
           <br><br>
           <h3 class="text-light">PROJECTS  :</h3>
           <div class="progress" style="height: 6px;">
-                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
+                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 72%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
               </div><br>
           </div>
           <div >
@@ -273,7 +273,7 @@ the root cause of the problem. It reduced the waste rate from 7.2% to 4.7%</p>
           <br><br>
           <h3 class="text-light">AWARDS  :</h3>
           <div class="progress" style="height: 6px;">
-                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
+                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 90%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
               </div><br>
           </div>
           <ul class=" text-light opacity-55">
@@ -290,7 +290,7 @@ the root cause of the problem. It reduced the waste rate from 7.2% to 4.7%</p>
           <br><br>
           <h3 class="text-light">SKILL  :</h3>
           <div class="progress" style="height: 6px;">
-                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 75%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
+                <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 100%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="70"></div>
               </div><br>
           </div>
           <ul class="text-white opacity-55">
