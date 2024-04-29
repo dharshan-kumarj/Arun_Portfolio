@@ -142,7 +142,7 @@
   <div class="container">
     <div class="row justify-content-md-center">
       <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
-        <h2 class="display-5 text-center text-white pt-5">Contact Me!</h2>
+        <h2 class="display-5 text-center text-white pt-5 border-bottom border-warning">Contact Me!</h2>
         <form
                   action="https://arun.selfmade.technology/Arun_Portfolio"
                   method="get"
@@ -191,6 +191,9 @@
     </div>
   </div>
 </section>
+
+<p class="p-5 text-center text-white">Developed By <a  href = "https://nexrof.in/" target="_blank"
+rel="noopener noreferrer" class="text-white">Nexrof</a></p>
     </main>
 
 <script src="/Arun_Portfolio/_libs/assets/dist/js/bootstrap.bundle.min.js"></script>

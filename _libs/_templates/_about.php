@@ -303,6 +303,9 @@ the root cause of the problem. It reduced the waste rate from 7.2% to 4.7%</p>
                 <li>Critical thinking</li><br>
                 
           </ul>
+
+          <p class="p-5 text-center text-white">Developed By <a  href = "https://nexrof.in/" target="_blank"
+rel="noopener noreferrer" class="text-white">Nexrof</a></p>
           
   
  </main>

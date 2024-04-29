@@ -39,7 +39,10 @@ market research
  <br>
  <div class="row">
  <p class=" text-effect p-4 " > I am excellent in New product idea creation, food safety and standard competency as Research and
-development executive position with company that allows me to develop my learning and Technical skills
+development executive position with company that allows me to develop my learning and Technical skills</p><br>
+
+<p class="p-5 text-center text-white">Developed By <a  href = "https://nexrof.in/" target="_blank"
+rel="noopener noreferrer" class="text-white">Nexrof</a></p>
  </div>
 </div>
 
