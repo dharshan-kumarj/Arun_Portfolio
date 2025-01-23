@@ -1,12 +1,12 @@
 <?php 
-  include $_SERVER['CONTEXT_DOCUMENT_ROOT'].'/Arun_Portfolio/_libs/load.php';
+  include $_SERVER['CONTEXT_DOCUMENT_ROOT'].'/_libs/load.php';
   ?>
 
 
 
 <!doctype html>
 <html lang="en" class="h-100" data-bs-theme="auto">
-  <head><script src="/Arun_Portfolio/_libs/assets/js/color-modes.js"></script>
+  <head><script src="/_libs/assets/js/color-modes.js"></script>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,13 +16,13 @@
     <title>Contact - Arun</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/cover/">
-    <link rel="icon" href="/Arun_Portfolio/_libs/assets/images/arun.png">
+    <link rel="icon" href="/_libs/assets/images/arun.png">
 
     
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
-    <link href="/Arun_Portfolio/_libs/assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/_libs/assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
@@ -105,9 +105,9 @@
 
     
     <!-- Custom styles for this template -->
-    <link href="/Arun_Portfolio/_libs/assets/dist/css/cover.css" rel="stylesheet">
-    <link href="/Arun_Portfolio/_libs/assets/dist/css/contact.css" rel="stylesheet">
-    <link href="/Arun_Portfolio/_libs/assets/dist/js/contact.js" rel="stylesheet">
+    <link href="/_libs/assets/dist/css/cover.css" rel="stylesheet">
+    <link href="/_libs/assets/dist/css/contact.css" rel="stylesheet">
+    <link href="/_libs/assets/dist/js/contact.js" rel="stylesheet">
     
     
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css">
@@ -144,7 +144,7 @@
       <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
         <h2 class="display-5 text-center text-white pt-5 border-bottom border-warning">Contact Me!</h2>
         <form
-                  action="https://arun.selfmade.technology/Arun_Portfolio"
+                  action="https://arun.selfmade.technology"
                   method="get"
           >
         <hr class="w-50 mx-auto mb-5 mb-xl-9 border-dark-subtle">
@@ -196,7 +196,7 @@
 rel="noopener noreferrer" class="text-white">Nexrof</a></p>
     </main>
 
-<script src="/Arun_Portfolio/_libs/assets/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/_libs/assets/dist/js/bootstrap.bundle.min.js"></script>
 
     </body>
 </html>

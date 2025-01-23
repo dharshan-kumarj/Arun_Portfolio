@@ -1,12 +1,12 @@
 <?php 
-  include $_SERVER['CONTEXT_DOCUMENT_ROOT'].'/Arun_Portfolio/_libs/load.php';
+  include $_SERVER['CONTEXT_DOCUMENT_ROOT'].'/_libs/load.php';
   ?>
 
 
 
 <!doctype html>
 <html lang="en" class="h-100" data-bs-theme="auto">
-  <head><script src="/Arun_Portfolio/_libs/assets/js/color-modes.js"></script>
+  <head><script src="/_libs/assets/js/color-modes.js"></script>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,13 +16,13 @@
     <title>Arun</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/cover/">
-    <link rel="icon" href="/Arun_Portfolio/_libs/assets/images/arun.png">
+    <link rel="icon" href="/_libs/assets/images/arun.png">
 
     
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
 
-    <link href="/Arun_Portfolio/_libs/assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/_libs/assets/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <style>
       .bd-placeholder-img {
@@ -105,8 +105,8 @@
 
     
     <!-- Custom styles for this template -->
-    <link href="/Arun_Portfolio/_libs/assets/dist/css/cover.css" rel="stylesheet">
-    <link href="/Arun_Portfolio/_libs/assets/dist/css/about.css" rel="stylesheet">
+    <link href="/_libs/assets/dist/css/cover.css" rel="stylesheet">
+    <link href="/_libs/assets/dist/css/about.css" rel="stylesheet">
     
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css">
   </head>
@@ -143,7 +143,7 @@
  </main>
 </div>
 
-<script src="/Arun_Portfolio/_libs/assets/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/_libs/assets/dist/js/bootstrap.bundle.min.js"></script>
 
     </body>
 </html>
