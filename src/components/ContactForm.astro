@@ -1,0 +1,123 @@
+<section>
+  <div class="text-center mb-5">
+    <h1 class="display-4 fw-bold mb-3">Get In <span class="text-gradient">Touch</span></h1>
+    <p class="lead">Let's connect and discuss how we can work together</p>
+  </div>
+
+  <div class="row justify-content-lg-center">
+    <div class="col-12 col-lg-8">
+      <div class="dark-card">
+        <form action="https://arun.selfmade.technology" method="get">
+          <div class="row g-4">
+            <div class="col-12">
+              <label for="fullname" class="form-label">Full Name <span class="text-accent">*</span></label>
+              <input type="text" class="form-control" id="fullname" name="fullname" required>
+            </div>
+            
+            <div class="col-12">
+              <label for="email" class="form-label">Email <span class="text-accent">*</span></label>
+              <div class="input-group">
+                <span class="input-group-text bg-transparent border-end-0">
+                  <i class="fas fa-envelope text-secondary"></i>
+                </span>
+                <input type="email" class="form-control border-start-0" id="email" name="email" required>
+              </div>
+            </div>
+            
+            <div class="col-12">
+              <label for="message" class="form-label">Message <span class="text-accent">*</span></label>
+              <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
+            </div>
+            
+            <div class="col-12">
+              <button type="submit" class="btn btn-primary w-100 py-3">
+                Send Message
+                <i class="fas fa-paper-plane ms-2"></i>
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row mt-5 justify-content-center text-center g-4">
+    <div class="col-md-4">
+      <div class="contact-info">
+        <div class="contact-icon">
+          <i class="fas fa-envelope"></i>
+        </div>
+        <h5>Email</h5>
+        <p>contact@arunraj.com</p>
+      </div>
+    </div>
+    
+    <div class="col-md-4">
+      <div class="contact-info">
+        <div class="contact-icon">
+          <i class="fas fa-map-marker-alt"></i>
+        </div>
+        <h5>Location</h5>
+        <p>Chennai, Tamil Nadu</p>
+      </div>
+    </div>
+    
+    <div class="col-md-4">
+      <div class="contact-info">
+        <div class="contact-icon">
+          <i class="fas fa-phone-alt"></i>
+        </div>
+        <h5>Phone</h5>
+        <p>+91 12345 67890</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .text-gradient {
+    background: linear-gradient(90deg, #6E56CF, #9672FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  
+  .text-accent {
+    color: var(--accent-primary);
+  }
+  
+  .contact-info {
+    padding: 2rem;
+    background-color: var(--bg-card);
+    border-radius: 16px;
+    border: 1px solid var(--border-color);
+    transition: all 0.3s;
+  }
+  
+  .contact-info:hover {
+    border-color: var(--accent-primary);
+    transform: translateY(-5px);
+  }
+  
+  .contact-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    background-color: rgba(110, 86, 207, 0.1);
+    border-radius: 50%;
+    margin-bottom: 1.5rem;
+  }
+  
+  .contact-icon i {
+    font-size: 1.5rem;
+    color: var(--accent-primary);
+  }
+  
+  .input-group-text {
+    color: var(--text-secondary);
+    border-color: var(--border-color);
+  }
+</style>

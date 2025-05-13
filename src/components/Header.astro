@@ -1,0 +1,53 @@
+---
+const currentPath = Astro.url.pathname;
+
+const isActive = (path: string) => {
+  if (path === '/' && currentPath === '/') return true;
+  if (path !== '/' && currentPath.startsWith(path)) return true;
+  return false;
+};
+---
+
+<header class="py-4 mb-5">
+  <nav class="navbar navbar-expand-lg">
+    <div class="container">
+      <a class="navbar-brand text-white fw-bold" href="/">
+        <span class="text-gradient">ARUN RAJ</span>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class={`nav-link ${isActive('/') ? 'active' : ''}`} href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class={`nav-link ${isActive('/about') ? 'active' : ''}`} href="/about">About Me</a>
+          </li>
+          <li class="nav-item">
+            <a class={`nav-link ${isActive('/contact') ? 'active' : ''}`} href="/contact">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<style>
+  .text-gradient {
+    background: linear-gradient(90deg, #6E56CF, #9672FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+
+  .navbar-toggler {
+    border-color: var(--border-color);
+  }
+  
+  .navbar-toggler-icon {
+    filter: invert(1);
+  }
+</style>
